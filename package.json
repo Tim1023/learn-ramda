@@ -1,0 +1,11 @@
+{
+  "name": "learn-ramda",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Tim1023/learn-ramda.git",
+  "author": "Tim <tim.z@mofadeng.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ramda": "^0.26.1"
+  }
+}
