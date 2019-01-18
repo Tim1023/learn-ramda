@@ -8,7 +8,7 @@ const pets = [
   {name: 'Fido', type: 'dog'}
 ];
 
-const dogCheck = pet => pet.type == 'dog';
+const dogCheck = pet => pet.type === 'dog';
 
 // const result = R.filter(dogCheck, pets)
 // const result = R.reject(dogCheck, pets)
